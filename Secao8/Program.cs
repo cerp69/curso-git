@@ -21,7 +21,6 @@ namespace Secao8
                 mens = "Boa noite!";
             }
             Console.WriteLine(mens);
-            Console.WriteLine("Vai putada!");
         }
     }
 }
